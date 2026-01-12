@@ -1,4 +1,4 @@
-//node.js file for API to show gpa
+//node.js file for API to show gpa of students by department and individual student ID
 
 const express = require('express');
 
