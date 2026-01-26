@@ -3,3 +3,6 @@ CO344 SEM2/2568
 Hello world
 One look, give 'em whiplash
 Beat drop with a big flash
+add more lyrics from whiplash aespa
+Coming hot, better think fast
+This look is a must have, uh
